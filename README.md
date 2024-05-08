@@ -1,5 +1,7 @@
 # YOLOv9_training
 
+### Used numberplate images that were self annotated - Around 120 images
+
 ### Training log
                  from  n    params  module                                  arguments                     
           0                -1  1      1856  models.common.Conv                      [3, 64, 3, 2]                 
